@@ -4,6 +4,8 @@ A step-by-step playbook for completing the **University of the People Bachelor o
 
 > **Bottom line:** with the right stack you can knock ~73 of 122 credits out externally for **$100–$1,100 total** (depending on how fast you want to go) and finish the remaining ~16–24 courses at UoPeople in **4–7 terms**.
 
+> 💸 **On a full scholarship and refusing to spend anything at all?** See the companion **[Zero-Spend Scholarship Guide](zero-spend-scholarship-guide.md)** — free CLEP + scholarship only, ~$0–300 total, ~16 months.
+
 *Researched August 2026. Transfer guides referenced are valid 2025–2028. Always verify against the current [UoPeople catalog](https://catalog.uopeople.edu/) and your own transfer evaluation — mappings and prices change.*
 
 ---
