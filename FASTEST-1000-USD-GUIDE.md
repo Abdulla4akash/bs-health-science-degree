@@ -2,9 +2,52 @@
 
 **Verified 16 October 2026 · November 2026 starting scenario · full scholarship covering UoPeople assessment fees.**
 
-Use Study.com Pro for the mapped science and health courses that shorten the university sequence. Add one month of Sophia if there are enough general education gaps to justify it. Aim to finish the external work in two paid Study.com months, while keeping a reserve for transfer charges and taxes. Buying more credits only helps when they satisfy an outstanding requirement or release a university course slot.
+**Further research, 16 October:** UPI Study publishes two additional mappings that could shorten the sequence. Check the conditional route below before buying the Study.com/Sophia plan. The earlier statement that November 2027 was the fastest possible finish was too strong; it was the earliest model using the providers already checked.
 
-**Working finish target:** approximately **January 2028 at the earliest on the UNIV + HS 1101 starting path**, with **spring 2028 as the research-capstone / later-internship scenario**. An adviser-approved PSYC 1111 start could move the sequence one term earlier. These are scheduling models, not approved graduation dates. The transfer audit, Foundations status, registration eligibility and capstone approval must support them.
+For the Study.com/Sophia fallback, use Pro for mapped science and health courses that shorten the university sequence. Add one month of Sophia if general education gaps justify it. Aim for two paid Study.com months, retaining a reserve for other charges. Buying credits helps only when they satisfy an outstanding requirement or release a university course slot.
+
+**Study.com/Sophia fallback target:** approximately **January 2028 at the earliest on the UNIV + HS 1101 starting path**, with **spring 2028 as the research-capstone / later-internship scenario**. An adviser-approved PSYC 1111 start could move this sequence one term earlier. These are scheduling models, not approved graduation dates.
+
+## 0. Potentially faster UPI route — confirmation required
+
+UPI's chart, labelled updated 13 October 2026, claims these equivalents:
+
+| UPI course | Claimed UoPeople requirement |
+|---|---|
+| Psychology 300: Psychology of Personality | PSYC 1111 Health Psychology |
+| Biology 200: Intro to Biology 2 | BIOL 1122 Biology II |
+| Health 120: Medical Terminology | HS 1111 Medical Terminology |
+
+These are **provider-published mappings, not a verified individual university decision**. UoPeople confirms the partnership, but its partnership page does not independently list these course matches. [UPI chart](https://www.upistudy.com/pages/uopeople), [UoPeople partnership](https://www.uopeople.edu/about/partners/academic-partnerships/uopeople-partners-with-upi-study/)
+
+NCCRS confirms credit recommendations for [Psychology 300](https://www.nationalccrs.org/upi-study-inc/psychology-300-psychology) and [Biology 200](https://www.nationalccrs.org/upi-study-inc/biology-200-introduction). That establishes the courses' credit recommendations, not their equivalence to UoPeople requirements. Biology 200 carries **three credits**, while BIOL 1122 requires **four and includes a virtual lab**. UoPeople must confirm full requirement/prerequisite clearance, any lab supplement, and how the missing credit is made up. Do not assume an unrelated one-credit course fixes it. [UoPeople biology requirement](https://catalog.uopeople.edu/ug_term1_item/health-science/courses-in-health-science)
+
+### Four-term model, only if all transfer and registration conditions are approved
+
+This model requires **83 accepted, applicable external credits**, including the PSYC and Biology II requirements, the appropriate program-elective slot and all remaining general electives. It extends the earlier pathway allocation and therefore needs a new audit. It assumes transfers can unlock January courses despite Foundations posting rules.
+
+| Term | Remaining UoPeople courses | Credits |
+|---|---|---:|
+| Nov 2026–Jan 2027 | Required UNIV variant; HS 1101 | 6 |
+| Jan–Mar 2027 | HS 2711; HS 3311 | 6 |
+| Apr–Jun 2027 | HS 3914; HS 3610; HS 4510; HS 4212 | 12 |
+| Jun–Aug 2027 | HS 3210; CHEM 3212; HS 3814; approved internship | 15 |
+
+**39 local + 83 external = 122 credits.** This hypothetical allocation keeps January at two courses and requires four-course eligibility by April. The final term combines three courses with a 270-hour internship and is a demanding workload. All ten capstone prerequisites must be completed or accepted; the internship application while final prerequisites are in progress also needs express approval.
+
+- **Around August 2027:** only with all those approvals and a timely internship.
+- **Around November 2027:** research capstones in the June and following terms, or an internship delayed by its application rule, assuming earlier transfer/registration conditions hold.
+- **Later:** if transfers cannot unlock January registration, the lab/credit gap remains unresolved, or courses/load permissions differ.
+
+These are conditional calculations, not an established completion offer. Neither PSYC nor Biology II should be purchased on the assumption that a provider's chart overrides UoPeople's evaluation.
+
+### Possible budget if UPI mappings are approved
+
+UPI lists partner access at **$89/month**. A candidate mix is two UPI months ($178), one Study.com Pro month ($235), one Sophia month ($99), and the Study.com Biology I lab ($75.67): **$587.67**, leaving **$412.33** for transfers, taxes, transcript delivery and any required supplement. This is a work target, not a guaranteed package price or completion speed. [UPI partner pricing](https://www.upistudy.com/pages/uopeople)
+
+Use UPI for the approved extra transfers and any approved overlaps such as Anatomy, Health Policy and Psychopathology; use Study.com for the remaining mapped courses. Do not buy overlapping credits twice. This budget assumes the reduced Study.com list fits one month; an extra month must be recalculated against the reserve. Any lab supplement must be approved and priced before committing.
+
+**First decision:** ask UoPeople to confirm Psychology 300 → PSYC 1111 and Biology 200 → the complete BIOL 1122 requirement, including the credit/lab issue and January prerequisite use. If either fails, retain the applicable fallback sequence below. No current verified transfer for HS 2711 or HS 3914 was found in this review.
 
 ## 1. What changed, and what was wrong before
 
@@ -169,6 +212,7 @@ Track each external course through **planned → completed → transcript sent �
 This is a draft checklist; no message is implied to have been sent.
 
 - Which catalog and codes govern my audit, including Health Science 2, the Oral Health/Medical Terminology elective slot and my required UNIV variant?
+- For the UPI option, do Psychology 300 and Biology 200 fully satisfy PSYC 1111 and BIOL 1122? What lab/credit supplement, if any, is required, and is an 83-credit external allocation with the proposed remaining 39 credits acceptable?
 - Can PSYC 1111 be taken in November, and when can external prerequisites be used for January registration given Foundations/degree-student rules?
 - Does Biology 101L (SDCM-0188, four credits) alone satisfy BIOL 1121, or is Biology 101 also required?
 - Please confirm approval for 70–73 external credits despite the catalog's 50%/exception wording, the Study.com mappings, Sophia category application, remaining electives and any course-specific restrictions.
